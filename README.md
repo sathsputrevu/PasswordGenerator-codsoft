@@ -57,19 +57,3 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-Install dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Run the script:
-bash
-Copy code
-python password_generator.py
-Contributing
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
